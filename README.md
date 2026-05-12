@@ -25,7 +25,7 @@ This makes the system a powerful tool for **business intelligence, menu optimiza
 ### 🔹 Analytics Dashboard Interface
 ![Dashboard](images/Dashboard.png)
 
-### 🔹 Time-Based Food Trends Analysis
+### 🔹 Rating Trends Over Time Analysis
 ![Trends](images/Trends.png)
 
 ### 🔹 Intelligent Chatbot Support
