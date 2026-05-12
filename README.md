@@ -29,9 +29,9 @@ This makes the system a powerful tool for **business intelligence, menu optimiza
 ![Trends](images/trends.png)
 
 ### 🔹 Intelligent Chatbot Support
-![Chatbot](images/chatbot.png)
+![Chatbot](images/Chatbot.png)
 
-*(Note: Create an `images` folder in your repository and upload your actual screenshots matching these names!)*
+
 
 ---
 
