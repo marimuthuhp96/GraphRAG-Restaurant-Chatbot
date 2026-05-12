@@ -23,13 +23,13 @@ This makes the system a powerful tool for **business intelligence, menu optimiza
 ## 📸 Application Preview
 
 ### 🔹 Analytics Dashboard Interface
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ### 🔹 Time-Based Food Trends Analysis
-![Trends](images/trends.png)
+![Trends](images/Trends.png)
 
 ### 🔹 Intelligent Chatbot Support
-![Chatbot](images/Chatbot.png)
+![Chatbot](images/chatbot.png)
 
 
 
